@@ -1,4 +1,4 @@
-# Java-InterviewPrep
+# Technical-Interview-Prep
 Java implementation of programming problems for 
 ##<a href="https://github.com/navaneethbv/Interview-Prep/tree/master/src/Warmup">1.Warmup</a>
 ##<a href="https://github.com/navaneethbv/Interview-Prep/tree/master/src/ctci">2.Cracking the coding interview</a>
